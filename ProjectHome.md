@@ -1,0 +1,6 @@
+metron is a application for measurement and budgets, with GNU GPL. The concept is to create this application compatible with the Linux environment, with the intention of trying to close the gap that exists in this field within this operating system. The idea I have in mind for many years, but I could not begin developing until recently where other CIRCUMSTANCES (professional) I implemented some applications with database access through a self-designed wrapper. I can say that I do it all for love.
+
+metron, is implemented using JAVA which allows portability across operating systems. For more detail, metron is developed on a machine with Linux operating system, specifically running under UBUNTU.
+
+The application is implemented on a database developed in java, H2. In principle, single-station, but over time the approach is that it is the server type. Bearing in mind that this database allows both solutions, is to think that portability is ensured. Furthermore, it must take into account the great benefits of this database.
+For reports using jasperreports, the open source reporting engine more used, and has excellent performance and continued development. For the preparation of reports using an external application iReport really is a wonderful tool that easily allows the preparation of reports. Deputy left a screenshot of the same
